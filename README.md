@@ -24,6 +24,7 @@ You'll use the terminal for navigating your folders:
 |--------------|---------------------------------|--------------------------|
 | `ls`         | Lists files in the current folder| `ls`                     |
 | `cd`         | Changes directory               | `cd my-project`          |
+| `cd ..`      | Navigate upstream               | `cd my-project`          |
 | `pwd`        | Prints your current directory   | `pwd`                    |
 
 ---
