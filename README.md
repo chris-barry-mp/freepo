@@ -13,6 +13,7 @@ Welcome! This guide will show you how to use Git with GitHub inside [Visual Stud
 - **Open the terminal:**  
   Press <kbd>Ctrl</kbd> + <kbd>`</kbd> (the key above Tab),  
   or from the menu: **View** → **Terminal**.
+  There is also a dropdown bar at the top of the program called terminal you can use to open a terminal.
 
 ---
 
